@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lodrick Kibochi</h1>
-<h3 align="center">A passionate electrical and electronics engineer and a frontend developer from Kenya</h3>
+<h3>A passionate electrical and electronics engineer and a frontend developer from Kenya</h3>
 <img src="https://gifdb.com/images/high/hd-blue-matrix-coding-c0ik089cyzg8t2dh.webp" alt="Coding">
 
 
